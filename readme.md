@@ -18,7 +18,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free Youtube API Key from [here](https://developers.google.com/youtube/v3/getting-started).
 2. Clone the repo
    ```sh
-   git clone https://github.com/devXprite/youtube-lookup.git
+   https://github.com/YachikaChaudhary/TubeInfo.git
    ```
 3. Install NPM packages
    ```sh

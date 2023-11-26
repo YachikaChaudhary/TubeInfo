@@ -1,4 +1,4 @@
-/* slint-disable no-var */
+/* eslint-disable no-var */
 /* eslint-disable consistent-return */
 /* eslint-disable no-plusplus */
 /* eslint-disable prefer-destructuring */

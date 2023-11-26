@@ -1,4 +1,4 @@
-cons { expect } = require("chai");
+const { expect } = require("chai");
 const request = require("request");
 
 const testFunction = async (videoID, videoTitle, channelTitle) => {

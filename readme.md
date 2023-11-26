@@ -54,23 +54,10 @@ This is an example of how to list things you need to use the software and how to
    Fix auto fixable problems.
 
 
-<!-- GitPod  -->
-## Run with Gitpod
-Click this button to run your project on Gitpod which comes with pre-configured environment you need.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/devXprite/youtube-lookup)
-
-<!-- Deploy  -->
-## Deploy
-
-Click this button to configure your Project and deploy it to Vercel.  
-  
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FdevXprite%2Fyoutube-lookup&env=YOUTUBE_API_KEY)
-
 ## License
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
 - **Twitter** : [@Yachika07](https://twitter.com/yachika07)
-- **Email** : [devXprite@gmail.com](mailto:devXprite@gmail.com)
+

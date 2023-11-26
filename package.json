@@ -14,20 +14,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devXprite/youtube-lookup.git"
+    "url": "git+https://github.com/YachikaChaudhary/TubeInfo.git"
   },
   "keywords": [
     "youtube"
   ],
   "author": {
-    "name": "DevXprite",
-    "email": "devXprite@gmail.com"
+    "name": "TubeInfo",
+    "email": "yachikachaudhary2023@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devXprite/youtube-lookup/issues"
+    "url": "https://github.com/YachikaChaudhary/TubeInfo.git"
   },
-  "homepage": "https://github.com/devXprite/youtube-lookup#readme",
+  "homepage": "https://github.com/YachikaChaudhary/TubeInfo.git#readme",
   "devDependencies": {
     "eslint": "^8.15.0",
     "eslint-config-airbnb-base": "^15.0.0",

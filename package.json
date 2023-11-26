@@ -1,5 +1,5 @@
 {
-  "name": "youtube-lookup",
+  "ame": "youtube-lookup",
   "version": "1.0.0",
   "description": "Simple Web Based Youtube Metadata Lookup",
   "main": "index.js",

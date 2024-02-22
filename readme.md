@@ -59,5 +59,5 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
 
-- **Twitter** : [@Yachika07](https://twitter.com/yachika07)
+- **Twitter** : [@Yachika07](https://twitter.com/yachika07) (Yachika)
 
